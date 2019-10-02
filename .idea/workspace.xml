@@ -12,29 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_函数/12_全局变量和局部变量.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_函数/13_函数文档说明.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04_函数/14_引用.py">
+        <entry file="file://$PROJECT_DIR$/05_字符串/04_下标.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -80,12 +62,15 @@
         <option value="$PROJECT_DIR$/04_函数/12_全局变量和局部变量.py" />
         <option value="$PROJECT_DIR$/04_函数/13_函数文档说明.py" />
         <option value="$PROJECT_DIR$/04_函数/14_引用.py" />
+        <option value="$PROJECT_DIR$/05_字符串/01_字符串介绍.py" />
+        <option value="$PROJECT_DIR$/05_字符串/02_字符串输出.py" />
+        <option value="$PROJECT_DIR$/05_字符串/03_字符串输入.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="878" />
-    <option name="y" value="180" />
+    <option name="x" value="731" />
+    <option name="y" value="290" />
     <option name="width" value="1022" />
     <option name="height" value="726" />
   </component>
@@ -94,7 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,12 +89,13 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="04_函数" type="462c0819:PsiDirectoryNode" />
+              <item name="05_字符串" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,8 +117,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.14_引用">
-    <configuration name="10_函数return多个返回值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.04_下标">
+    <configuration name="01_字符串介绍" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,12 +126,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_字符串" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/10_函数return多个返回值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_字符串/01_字符串介绍.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11_拆包和交换变量的值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02_字符串输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,12 +148,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_字符串" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/11_拆包和交换变量的值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_字符串/02_字符串输出.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12_全局变量和局部变量" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03_字符串输入" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,12 +170,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_字符串" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/12_全局变量和局部变量.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_字符串/03_字符串输入.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13_函数文档说明" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_下标" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,12 +192,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_字符串" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/13_函数文档说明.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_字符串/04_下标.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04_下标" />
+        <item itemvalue="Python.03_字符串输入" />
+        <item itemvalue="Python.02_字符串输出" />
+        <item itemvalue="Python.01_字符串介绍" />
         <item itemvalue="Python.14_引用" />
-        <item itemvalue="Python.13_函数文档说明" />
-        <item itemvalue="Python.12_全局变量和局部变量" />
-        <item itemvalue="Python.11_拆包和交换变量的值" />
-        <item itemvalue="Python.10_函数return多个返回值" />
       </list>
     </recent_temporary>
   </component>
@@ -268,23 +253,30 @@
       <workItem from="1568980246927" duration="599000" />
       <workItem from="1569072267426" duration="594000" />
       <workItem from="1569132327378" duration="599000" />
-      <workItem from="1569412253794" duration="3486000" />
+      <workItem from="1569412253794" duration="4113000" />
+      <workItem from="1569497607954" duration="3935000" />
+      <workItem from="1569506875091" duration="1010000" />
+      <workItem from="1569582558133" duration="598000" />
+      <workItem from="1569669834973" duration="596000" />
+      <workItem from="1569773730226" duration="600000" />
+      <workItem from="1569855638588" duration="599000" />
+      <workItem from="1569887571747" duration="598000" />
+      <workItem from="1569976927183" duration="606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14492000" />
+    <option name="totallyTimeSpent" value="23661000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="878" y="180" width="1022" height="726" extended-state="0" />
-    <editor active="true" />
+    <frame x="731" y="290" width="1022" height="726" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.38045737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38045737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3277027" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3277027" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,17 +309,17 @@
     <SUITE FILE_PATH="coverage/python$12_.coverage" NAME="12_全局变量和局部变量 Coverage Results" MODIFIED="1569420112487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
     <SUITE FILE_PATH="coverage/python$08_.coverage" NAME="08_不定长参数之字典 Coverage Results" MODIFIED="1569418811102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
     <SUITE FILE_PATH="coverage/python$01_for.coverage" NAME="01_for Coverage Results" MODIFIED="1568904829412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
-    <SUITE FILE_PATH="coverage/python$04_.coverage" NAME="04_函数参数之位置参数 Coverage Results" MODIFIED="1569418043582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
     <SUITE FILE_PATH="coverage/python$09_.coverage" NAME="09_不定长参数总结 Coverage Results" MODIFIED="1569419173677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
+    <SUITE FILE_PATH="coverage/python$04_.coverage" NAME="04_下标 Coverage Results" MODIFIED="1569506623833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_字符串" />
     <SUITE FILE_PATH="coverage/python$10_.coverage" NAME="10_优先级 Coverage Results" MODIFIED="1568814982451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_入门知识" />
     <SUITE FILE_PATH="coverage/python$04_if_else.coverage" NAME="04_if-else Coverage Results" MODIFIED="1568896868274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支结构" />
     <SUITE FILE_PATH="coverage/python$11_.coverage" NAME="11_拆包和交换变量的值 Coverage Results" MODIFIED="1569419714515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
-    <SUITE FILE_PATH="coverage/python$02_.coverage" NAME="02_函数的参数 Coverage Results" MODIFIED="1568906380237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
-    <SUITE FILE_PATH="coverage/python$03_.coverage" NAME="03_函数的嵌套调用 Coverage Results" MODIFIED="1568906526544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
+    <SUITE FILE_PATH="coverage/python$02_.coverage" NAME="02_字符串输出 Coverage Results" MODIFIED="1569500629718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_字符串" />
+    <SUITE FILE_PATH="coverage/python$03_.coverage" NAME="03_字符串输入 Coverage Results" MODIFIED="1569500831615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_字符串" />
     <SUITE FILE_PATH="coverage/python$14_.coverage" NAME="14_引用 Coverage Results" MODIFIED="1569420655930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
     <SUITE FILE_PATH="coverage/python$13_.coverage" NAME="13_函数文档说明 Coverage Results" MODIFIED="1569420317455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
     <SUITE FILE_PATH="coverage/python$02_while.coverage" NAME="02_while Coverage Results" MODIFIED="1568905108312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_循环" />
-    <SUITE FILE_PATH="coverage/python$01_.coverage" NAME="01_函数的定义 Coverage Results" MODIFIED="1568906315316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
+    <SUITE FILE_PATH="coverage/python$01_.coverage" NAME="01_字符串介绍 Coverage Results" MODIFIED="1569499960378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_字符串" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01_入门知识/03_变量.py">
@@ -536,22 +528,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04_函数/12_全局变量和局部变量.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        <state relative-caret-position="351">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_函数/13_函数文档说明.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="189">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_函数/14_引用.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state relative-caret-position="270">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_字符串/01_字符串介绍.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_字符串/02_字符串输出.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_字符串/03_字符串输入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_字符串/04_下标.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
